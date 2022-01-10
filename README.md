@@ -1,6 +1,6 @@
 # API for Task Manager App
 
-## The API is made with NodeJS, ExpressJS, MongoDB. Includes authentication and authorization
+## The API is made with NodeJS, ExpressJS, MongoDB. Includes authentication, authorization, file uploads and email sending.
 
 ### Milestones
 
