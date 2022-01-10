@@ -8,5 +8,5 @@
 -  _Authenticating users and task endpoints_ ✔
 -  _Sorting, Filtering and Pagination_ ✔
 -  _File uploads_ ✔
--  _Email sending_ ❌
+-  _Email sending_ ✔
 -  _Moving to GraphQL_ ❌
