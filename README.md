@@ -14,6 +14,12 @@
 npm install
 ```
 
+## Run the file
+
+```sh
+npm install
+```
+
 ## Author
 
 👤 **Zuhaib Nazir**
