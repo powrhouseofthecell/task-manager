@@ -14,7 +14,7 @@
 npm install
 ```
 
-## Run the file
+## Usage
 
 ```sh
 npm run start
