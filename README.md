@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> The API is made with NodeJS, ExpressJS, MongoDB. Includes authentication, authorization, file uploads and email sending features
+> The API is made with NodeJS, ExpressJS, MongoDB. Includes authentication, authorization, file uploads and email sending features.
 
 ## Install
 
