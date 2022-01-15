@@ -28,12 +28,6 @@ npm run start
 -  Github: [@powrhouseofthecell](https://github.com/powrhouseofthecell)
 -  LinkedIn: [@zuhaibnazir](https://linkedin.com/in/zuhaibnazir)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
 ### Milestones
 
 -  _Using RESTful API_ ✔
@@ -42,3 +36,9 @@ Give a ⭐️ if this project helped you!
 -  _File uploads_ ✔
 -  _Email sending_ ✔
 -  _Moving to GraphQL_ ❌
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
